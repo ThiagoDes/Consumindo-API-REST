@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bj009ANbudrGzl9ckRF3dVoTVJzDvDYnx3n6VXhfPDxVJDSG6yRTYnBqtVPjhoZu1Za+T96upYPsR3T53Y8gfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fusion\\source\\repos\\ExemploRefit\\ExemploRefit\\ExemploRefit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fusion\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Fusion\\.nuget\\packages\\refit\\6.0.38\\refit.6.0.38.nupkg.sha512",
+    "C:\\Users\\Fusion\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Fusion\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
